@@ -1,3 +1,3 @@
 # build/
 
-This directory stores **build artifacts** generated during compilation.
+This directory stores **outputs** generated during compilation.
